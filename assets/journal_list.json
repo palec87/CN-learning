@@ -1,0 +1,12 @@
+{
+    "journal_list": {
+        "Journal of the American Chemical Society": [
+            "abbr": "JACS",
+            "url": "https://pubs.acs.org/journal/jacsat",
+        ],
+        "Journal of the American Medical Association": [
+            "abbv": "JAMA",
+            "url": "https://jamanetwork.com/journals/jama",
+        ]
+    }
+}
